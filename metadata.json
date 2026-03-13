@@ -1,0 +1,8 @@
+{
+  "name": "HRMS & Payroll System",
+  "description": "Hệ thống Quản lý nhân viên, Chấm công thông minh và Tính lương.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
